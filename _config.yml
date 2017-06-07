@@ -7,7 +7,7 @@ title: Thomas Smith
 subtitle: Security Penetration Tester
 description:
 author: Thomas Smith
-language: English
+language: en
 timezone:
 
 # URL
@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:thomas-smith/thomas-smith.github.io.git
+  branch: master
