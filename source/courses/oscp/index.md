@@ -18,4 +18,4 @@ As I progressed with the tutorials a fellow student told me to hit the labs and 
 
 The first machine I did was an actual walk through supplied by offensive security for which I would highly recommend anybody doing the [OSCP PWK](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) course to try. The walkthrough gives a step-by-step guide to conducting a penetration test. As I progressed through the walkthrough everything seemed to be fine until there was some instructions missing, offensive security mention that the missing part is in the PDF/Videos so back to the tutorials, I was on the tutorials for a fair amount of time trying to figure out what I was missing... The thing I was missing did eventually come to mind and at that moment I actually (yes actually) fist punched the air.
 
-![alt text](https://media.giphy.com/media/Lx8lyPHGfdNjq/giphy.gif "Chuck Norris")
+![Fist Punch - not actually me :)](https://media.giphy.com/media/Lx8lyPHGfdNjq/giphy.gif "Chuck Norris")
