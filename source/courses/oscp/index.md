@@ -14,7 +14,7 @@ I woke at 4am on the Monday the 19th and it hit me that this was going to be a v
 
 The first few weeks of the course consisted of me going through both the video and pdf tutorials, it seamed slow at first as it was all new to me so for every 10 mins of reading I did probably an additional 30 minutes of extra reading to understand the topic I was reading.
 
-As I progressed with the tutorials a fellow student told me to hit the labs and forget the focused training... **It was awesome advice**
+As I progressed with the tutorials a fellow student told me to hit the labs and forget the focused training... **It was awesome advice** thanks 5t0n3r
 
 The first machine I did was an actual walk through supplied by offensive security for which I would highly recommend anybody doing the [OSCP PWK](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) course to try. The walkthrough gives a step-by-step guide to conducting a penetration test. As I progressed through the walkthrough everything seemed to be fine until there was some instructions missing, offensive security mention that the missing part is in the PDF/Videos so back to the tutorials, I was on the tutorials for a fair amount of time trying to figure out what I was missing... The thing I was missing did eventually come to mind and at that moment I actually (yes actually) fist punched the air.
 
